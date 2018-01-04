@@ -1,0 +1,105 @@
+1. Data Structures :
+   => Numbers
+   => String
+   => List
+   => Tuple
+   => Dictionary
+   => Set
+   
+   -- Important --
+   => slice
+   => split
+   => join
+   => indexing
+   => Tuple packing/unpacking
+   
+   
+2. Standard Libraries :
+   => os
+   => sys
+   => re
+   => time
+   => datetime
+   => math
+   => glob
+   => shutil
+   => collections
+   => itertools
+   => random
+   => timeit
+   => unittest
+   
+   -- Important --
+   => Traverse a directory
+   => update of system environment variable
+   => use of counter, DefaultDict -- collections
+   
+3. Third party libraries:
+   => numpy
+   => pandas
+   => matplotlib
+   => scipy
+   => sklearn
+   
+4. Comprehensions
+   => List comprehension
+   => Set comprehension
+   => Dictionary comprehension
+   
+   -- Important --
+   => http://python-3-patterns-idioms-test.readthedocs.io/en/latest/Comprehensions.html
+   
+5. Functions
+   => positional arguments
+   => keyword arguments
+   => lambda
+   => map
+   => filter
+   => reduce
+   
+6. Modules
+   => Import
+   => reload
+   => exec
+   
+7. Packages
+   => use of __init__.py
+   
+8. OOPS :
+   => Class
+   => object
+   => Methods
+   => constructor
+   => destructor
+   => inheritence
+   => method overloading
+   => method overriding
+   => polymorphism
+   => Encapsulation
+   => class method
+   => static method
+   
+   -- Important --
+   => Difference between method overloading and method overriding
+   => Defining __init__ constructor
+   => self argument in the class methods
+   
+9. Concerrency
+
+10. Multi-Threading
+    => Issue with multi threading - GIL
+   
+11. Exception handling
+    => use of try, except, finally block
+    => raise our own exception
+    => extend exception class
+
+12. Use of if-else,for,while loops
+13. use of pass, continue,break
+14. Shallow Copy vs Deep Copy
+15. Iterator
+16. Generator
+17. Closure
+18. Decorator
+19. Use of zip, range
+20. Bit manupulation
