@@ -12,6 +12,7 @@
    => join
    => indexing
    => Tuple packing/unpacking
+   => unicode/byte strings
    
    
 2. Standard Libraries :
@@ -28,11 +29,13 @@
    => random
    => timeit
    => unittest
+   => pickle
    
    -- Important --
    => Traverse a directory
    => update of system environment variable
    => use of counter, DefaultDict -- collections
+   => use of pickle module
    
 3. Third party libraries:
    => numpy
@@ -103,3 +106,9 @@
 18. Decorator
 19. Use of zip, range
 20. Bit manupulation
+21. Difference between python2 and python3
+    => print syntax
+	=> Default string type - changed to unicode/byte
+	=> raw_input converted to input in python3. raw_input is no more valid.
+	=> xrange convereted to range in python3. xrange is no more valid.
+	=> integer division - integer division will return float value by default in python3.
